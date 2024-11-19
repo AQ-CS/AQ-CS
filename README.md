@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I have experience in: Frontend Development using HTML, CSS, and JavaScript<br>🔭 I’m currently working on: Backend development and developing SaaS Projects<br>🌱 I’m currently learning: React, PostgreSQL, and Server Frameworks<br>📫 How to reach me: arafat.abedalqader@gmail.com <br>💬 Ask me about
+👀 I have experience in: Frontend Development using HTML, CSS, and JavaScript<br>🔭 I’m currently working on: Backend development and developing SaaS Projects<br>🌱 I’m currently learning: React, PostgreSQL, and Server Frameworks<br>📫 How to reach me: arafat.abedalqader@gmail.com 
 
 
 ## 🌐 Socials:
