@@ -1,27 +1,31 @@
-# 💫 About Me:
-👀 I have experience in: Frontend Development using HTML, CSS, and JavaScript<br>🔭 I’m currently working on: Backend development and developing SaaS Projects<br>🌱 I’m currently learning: React, PostgreSQL, and Server Frameworks<br>📫 How to reach me: arafat.abedalqader@gmail.com 
+# Hi, I'm Abedalqader Arafat 👋
 
+**Full-Stack & Machine Learning Engineer** based in Abu Dhabi, UAE. I ship production systems end to end, from multi-tenant SaaS to cross-platform mobile apps, with a strong streak in applied computer vision.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abedalqader-arafat-a624332b4/) 
+- 🛠️ Currently a core engineer on a production multi-tenant B2B SaaS platform (Next.js, React, TypeScript, PostgreSQL) at UVenture (KUEC).
+- 🤖 Background in computer vision and ML: facial recognition, YOLOv8 object detection, and biomedical AI.
+- 🏆 Multiple hackathon and game-jam wins, including 1st place at the KU MedBio Hackathon.
+- 🌐 Portfolio: https://abedalqader-arafat.netlify.app
+- 💼 LinkedIn: https://www.linkedin.com/in/abedalqader-arafat-a624332b4
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GDScript](https://img.shields.io/badge/gdscript-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+## Featured projects
 
+**OmniStream Digital Twin** (TypeScript, React, Web Workers): a high-frequency industrial telemetry sandbox that pushes 50Hz multiplexed data through the browser with a zero-latency, 60fps HMI. A study in high-performance frontend architecture.
+→ https://omnistream-digital-twin.vercel.app
 
+**ShadowDeck** (Electron, Node, local LLMs): a local-first developer command center that orchestrates local models as a "council of agents" for automated code review. Includes a candid architecture post-mortem on the limits of local inference.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AQ-CS&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AQ-CS&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AQ-CS&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+**Library Management System** (React, Node/Express, MySQL): a full-stack system with a normalized 3NF schema, 4-tier role-based access control, and JWT auth.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AQ-CS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**Virtual Tour Guide** (React Native): an interactive museum tour app with floor navigation and accessibility-first UX.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AQ-CS&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**The Nomads' Legacy** (Godot, GDScript): a narrative game built under game-jam time constraints.
 
----
-[![](https://visitcount.itsvg.in/api?id=AQ-CS&icon=2&color=0)](https://visitcount.itsvg.in)
+> I also build production software that lives in private repos, including a cross-platform mobile app (React Native, ~85K LOC, offline-first, bilingual) and the UVenture SaaS platform. Happy to walk through the engineering on request.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tech
+
+**Languages:** Python, JavaScript, TypeScript, C#, Java, GDScript, SQL
+**Web & Mobile:** React, Next.js, Node, Express, React Native
+**AI / ML:** TensorFlow, Keras, Scikit-Learn, YOLO, OpenCV, RDKit
+**Data & Cloud:** PostgreSQL, MySQL, Drizzle ORM, Vercel, Git, Azure DevOps
